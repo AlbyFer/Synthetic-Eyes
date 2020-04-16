@@ -1,4 +1,4 @@
 # Synthetic-Eyes
 Machine Vision algos
 
-Miscellaneous Machine Vision programs to recognize colours, picture etc. [Operating repository]
+A Machine Vision Algo for a virtual treasure hunt app.
